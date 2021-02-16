@@ -13,7 +13,7 @@
 
 * Build a classical show action/view
 
-
+ 
 ## Instructions
 
 There are three RSpec/Capybara specs in this lesson; you can find them in `spec/features/student_spec.rb`. Make sure they pass without breaking the other tests. To complete this section, all specs should pass.
